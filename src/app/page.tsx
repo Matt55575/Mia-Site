@@ -46,7 +46,7 @@ export default function Home() {
           <div className={styles.gridText}>
             <h3>Our Story</h3>
             <p>
-              We're two Canadian best friends who absolutely love making bracelets. We started crafting with Rainbow Loom and quickly fell in love with how many amazing designs you can make! We believe everyone can be a designer, and we're here to share our passion and our unique creations with the world!
+              We&apos;re two Canadian best friends who absolutely love making bracelets. We started crafting with Rainbow Loom and quickly fell in love with how many amazing designs you can make! We believe everyone can be a designer, and we&apos;re here to share our passion and our unique creations with the world!
             </p>
           </div>
         </section>
